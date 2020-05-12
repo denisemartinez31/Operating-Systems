@@ -2,3 +2,7 @@ Memory management is the functionality of an operating system that manages prima
 processes back and forth between main memory and disk during execution. Memory management keeps track
 of each memory location; by either, it is allocated or free.It decides which process will get memory
 at what time.It also tracks when memory gets freed or unallocated, and it updates the status.
+The file managment of an operating system takes care of file related activities. Such as
+organization, storing, retrieval, naming, sharing, and protection of files. It allows
+programs to use a set of operations that allocation and layout of a secondary storage 
+devices.
