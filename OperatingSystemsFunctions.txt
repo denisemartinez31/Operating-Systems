@@ -4,5 +4,8 @@ of each memory location; by either, it is allocated or free.It decides which pro
 at what time.It also tracks when memory gets freed or unallocated, and it updates the status.
 The file managment of an operating system takes care of file related activities. Such as
 organization, storing, retrieval, naming, sharing, and protection of files. It allows
-programs to use a set of operations that allocation and layout of a secondary storage 
-devices.
+programs to use a set of operations that allocation and layout of a secondary storage devices.
+Operating system monitors overall system health to help improve performance. Records the responce time
+between service requests and system response to have complete view of the system health. This can improve
+performance by providing important information needed to troubleshoot problems. This opertating system function
+is known as performance measurement control system.
